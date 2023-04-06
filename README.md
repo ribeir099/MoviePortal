@@ -4,6 +4,6 @@ Site desenvolvido na matéria de Desenvolvimento de Interfaces Web no primeiro p
 
 Nesse arquivo contém os arquivos utilizados no desenvolvimento do site.
 
-Para acessar o site em um ambiente da internet, clique [aqui]([https://meu-portal-de-filmes.gabrielribeiro99.repl.co/](https://movie-portal-kappa.vercel.app)) ou <https://movie-portal-kappa.vercel.app/>.
+Para acessar o site em um ambiente da internet, clique [aqui](https://movieportal.vercel.app/) ou <https://movieportal.vercel.app//>.
 
 Desenvolvido por Gabriel Ribeiro Souza Silva.
